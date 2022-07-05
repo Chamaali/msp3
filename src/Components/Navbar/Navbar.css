@@ -1,0 +1,29 @@
+.bar{
+    position: absolute;
+    width: 1333px;
+    height: 73px;
+    left: 54px;
+    top: 55px;
+
+}
+
+.logo{
+    position: absolute;
+    left: 0%;
+    right: 95.2%;
+    top: 0%;
+    bottom: 0%;
+    
+}
+
+.menu-icon{
+    position: absolute;
+    left: 95.2%;
+    right: 0%;
+    top: 49.9%;
+    bottom: 50.1%;
+}
+
+.topic{
+    text-align: right;
+}
